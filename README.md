@@ -13,11 +13,15 @@ A fast, simple, and elegant URL shortener service built with Node.js, Express, a
 ## Setup & Run
 
 1. **Install dependencies**
-npm install
+   ```bash
+   npm install
+   ```
 
 2. **Start the server**
-npm start
-The server will initialize the SQLite database automatically on the first run.
+   ```bash
+   npm start
+   ```
+   The server will initialize the SQLite database automatically on the first run.
 
 3. **Access the Application**
    Open your browser and navigate to `http://localhost:3000`.
