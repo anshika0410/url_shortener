@@ -26,6 +26,9 @@ A fast, simple, and elegant URL shortener service built with Node.js, Express, a
 3. **Access the Application**
    Open your browser and navigate to `http://localhost:3000`.
 
+## UI
+<img width="1800" height="931" alt="image" src="https://github.com/user-attachments/assets/3b06096d-a2a3-4130-ae8b-2cd86d5cb952" />
+
 ## API Endpoints
 
 ### 1. Shorten URL
